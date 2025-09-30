@@ -15,6 +15,8 @@ Improve discoverability for moms searching routines/lunchbox ideas.
 - Descriptions with primary + secondary keywords
 
 ## Execution (Before/After)
+[← Back to Home](../../index.md)
+
 _Add one example: old title/desc vs new SEO version._
 
 ## Results / Directional Impact
