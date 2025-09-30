@@ -1,2 +1,2 @@
-# Content Strategy
-- [Pinterest SEO Case Study](./projects/content/pinterest-seo-case.md)
+# UX Case Studies
+- [Parenting App Flow Redesign](./projects/ux/parenting-app-redesign)
