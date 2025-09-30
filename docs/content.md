@@ -1,2 +1,2 @@
 # Content Strategy
-- [Pinterest SEO Case Study](../content/pinterest-seo-case/index.md)
+- [Pinterest SEO Case Study](./projects/content/pinterest-seo-case.md)
